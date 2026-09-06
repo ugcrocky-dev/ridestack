@@ -1,1 +1,1 @@
-PLACEHOLDER
+export const platforms = [];
